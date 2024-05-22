@@ -17,6 +17,8 @@ When you sign up for a Lexifly account, we may collect your name, email address,
 
 We take reasonable measures to protect your personal information from unauthorized access, use, or disclosure. We retain your information for as long as necessary to provide the Lexifly’s services and to comply with our legal obligations.
 
+- If the user wants to completely delete his account data, he can click on the Delete Account button from within the app, and his email, username, password, and any other data linked to the account will be completely deleted.
+
 ### 4. Third-Party Services
 
 Lexifly may integrate with or contain links to third-party services, such as social media platforms or payment providers. These third-party services have their own privacy policies, and we are not responsible for the privacy practices of these services.
